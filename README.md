@@ -1,1 +1,2 @@
-# vtgitrepo1
+# vtgit
+@repo1
